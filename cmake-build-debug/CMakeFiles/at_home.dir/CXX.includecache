@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/WS02/at-home/Kingdom.cpp
+iostream
+-
+Kingdom.h
+H:/WS02/at-home/Kingdom.h
+
+H:/WS02/at-home/Kingdom.h
+
+H:/WS02/at-home/w2_at_home.cpp
+iostream
+-
+cstring
+-
+Kingdom.h
+H:/WS02/at-home/Kingdom.h
+
